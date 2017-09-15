@@ -20,7 +20,7 @@
         }
     },
     "require": {
-        "pimple/pimple": "3.0.*",
+        "pimple/pimple": "3.2.*",
         "symfony/security": "~2.8|~3.0",
         "firebase/php-jwt": "^4.0"
     },
